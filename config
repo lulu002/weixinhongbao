@@ -5,3 +5,5 @@
 	ignorecase = true
 [core]
 	repositoryformatversion = 0
+[credential]     
+  helper = store  
